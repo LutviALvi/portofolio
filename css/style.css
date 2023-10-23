@@ -1,0 +1,26 @@
+body {
+	font-family: 'Playpen Sans', cursive;
+}
+
+.jumbotron {
+	padding-top: 8rem;
+	background: rgba(111, 168, 170, 0.1);
+}
+
+#projects {
+	background-color: rgba(111, 168, 170, 0.1);
+}
+
+section {
+	padding-top: 6rem;
+}
+
+.baten {
+	background-color: rgb(111, 168, 170) !important;
+	color: white;
+}
+
+.baten:hover {
+	background-color: rgb(95, 140, 142) !important;
+	color: white;
+}
